@@ -1,4 +1,6 @@
-# 個人的によく使う Windows と Mac のショートカットキー
+# Windows と Mac の個人的ショートカットキー
+
+## OS
 
 |                              | Windows                 | Mac                        |
 | ---------------------------- | ----------------------- | -------------------------- |
@@ -26,3 +28,18 @@
 | エクスプローラー / Finder    | win + E                 |                            |
 | 全画面                       |                         | control + command + F      |
 | 画面をロック                 | win + l                 | control + command + Q      |
+
+## Atok
+
+|                    | Windows | Mac                 |
+| ------------------ | ------- | ------------------- |
+| ひらがな入力       |         | control + shift + Z |
+| カタカナ入力       |         | control + shift + X |
+| 半角英字固定入力   |         | control + shift + C |
+| 全角英字入力       |         | control + shift + V |
+| 半角英字入力       |         | control + shift + B |
+| ひらがな（後）変換 |         | control + U         |
+| カタカナ（後）変換 |         | control + I         |
+| 半角（後）変換     |         | control + O         |
+| 全角英字（後）変換 |         | control + P         |
+| 半角英字（後）変換 |         | control + @         |
