@@ -23,11 +23,26 @@
 | 全ウインドウ最小化（トグル） | win + D                 | option + command + H + M   |
 | タブ閉じる                   | ctrl + F4               | command + W                |
 | アプリ閉じる                 | alt + F4                | command + Q                |
-| アプリ切り替え               | alt + tab               | command + tab              |
+| アプリ切り替え               | n/a                     | command + tab              |
+| ウインドウ切り替え           | alt + tab               | n/a                        |
+| ウインドウ内タブ切り替え     | n/a                     | control + tab              |
 | タスクスイッチ               | alt + tab               | command + tab              |
 | エクスプローラー / Finder    | win + E                 |                            |
 | 全画面                       |                         | control + command + F      |
 | 画面をロック                 | win + l                 | control + command + Q      |
+
+## Mission Control
+
+|                             | Windows | Mac         |
+| --------------------------- | ------- | ----------- |
+| Mission Control             | n/a     | control + ↑ |
+| アプリケーション ウインドウ | n/a     | control + ↓ |
+| 左の操作スペースに移動する  | n/a     | control + ← |
+| 右の操作スペースに移動する  | n/a     | control + → |
+| デスクトップ1へ切り替える   | n/a     | control + 1 |
+| デスクトップ21へ切り替える  | n/a     | control + 2 |
+| デスクトップ3へ切り替える   | n/a     | control + 3 |
+| デスクトップ4へ切り替える   | n/a     | control + 4 |
 
 ## Atok
 
